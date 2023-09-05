@@ -1,4 +1,4 @@
-''' ''''
+'''
 def func_sq(x,y):
     print(x*y)
     return x*y
@@ -17,4 +17,4 @@ print(vv.diasplay(10,20))
 
 
 x = 20
-print(type(x))
+# print(type(x))
